@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+	 "nuxt" :"^0.8.8"
+  },
+  "devDependencies": {
+    "jade": "^1.11.0"
+  }
+}
